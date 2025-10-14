@@ -1,6 +1,6 @@
 # guessing-game
 ## Prerequisites
-- rustup
+- [rustup](https://rust-lang.org/tools/install/)
 ## Installation
 1. Clone the repository:
    ```
