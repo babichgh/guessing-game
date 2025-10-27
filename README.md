@@ -4,8 +4,8 @@
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/babichgh/file-writer.git
-   cd file-writer
+   git clone https://github.com/babichgh/guessing-game.git
+   cd guessing-game
    ```
 2. Run
    ```
