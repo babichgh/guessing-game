@@ -13,7 +13,7 @@
    ```
 ## Project structure
 ```
-file-writer/
+guessing-game/
 ├── srs/
     └── main.rs   # Rust source code
 ├── .gitignore   # Ignores /target
